@@ -1,0 +1,43 @@
+body
+{
+	 background-color:#E4E4E4;
+}
+.header
+{
+	width:100%;
+	background-color:00008b;
+	height:200px;
+	 position:absolute;
+	top:0;
+	right:0;
+	text-align:center;
+	justify-content:center;
+	color:white;
+}
+
+
+.popup
+{
+	width:63%;
+	height:60%;
+	background-color:#FFFFFF;
+	position:absolute;
+	left:17%;
+	top:22%;
+	padding:12px  20px;
+}
+
+.btn
+{
+	border:none;
+	background-color:#1CADD5;
+	color:white;
+	width:140px;
+	height:40px;
+	position:relative;
+	left:32%;
+	margin-left:2%;
+	top:5%;
+}
+
+
